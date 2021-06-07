@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\bin\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.exe
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\bin\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.deps.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\bin\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\bin\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\bin\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\bin\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\obj\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\obj\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\obj\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\obj\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\obj\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Quantifier 3\obj\Debug\netcoreapp3.1\LINQ Operators - Quantifier 3.genruntimeconfig.cache
