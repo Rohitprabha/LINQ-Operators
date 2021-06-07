@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ Operators -  Generation 3", "LINQ Operators -  Generation 3.csproj", "{FDB999F8-3768-4DB5-A7B4-CE03278FFDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB999F8-3768-4DB5-A7B4-CE03278FFDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB999F8-3768-4DB5-A7B4-CE03278FFDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB999F8-3768-4DB5-A7B4-CE03278FFDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB999F8-3768-4DB5-A7B4-CE03278FFDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749D865B-B919-49CD-89F4-1631E7EA7FD5}
+	EndGlobalSection
+EndGlobal
