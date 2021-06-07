@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\bin\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.exe
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\bin\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.deps.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\bin\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\bin\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\bin\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\bin\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\obj\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\obj\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\obj\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\obj\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\obj\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Ordering 4\obj\Debug\netcoreapp3.1\LINQ Operators - Ordering 4.genruntimeconfig.cache

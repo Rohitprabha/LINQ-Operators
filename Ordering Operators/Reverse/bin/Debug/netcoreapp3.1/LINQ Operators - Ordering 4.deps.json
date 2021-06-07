@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LINQ Operators - Ordering 4/1.0.0": {
+        "runtime": {
+          "LINQ Operators - Ordering 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ Operators - Ordering 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
