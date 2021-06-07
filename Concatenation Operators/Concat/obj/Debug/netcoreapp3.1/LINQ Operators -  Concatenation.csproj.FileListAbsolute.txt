@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\bin\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.exe
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\bin\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.deps.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\bin\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\bin\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\bin\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\bin\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\obj\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\obj\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\obj\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\obj\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\obj\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators -  Concatenation\obj\Debug\netcoreapp3.1\LINQ Operators -  Concatenation.genruntimeconfig.cache
