@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\bin\Debug\netcoreapp3.1\LINQ Operators - Projection 2.exe
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\bin\Debug\netcoreapp3.1\LINQ Operators - Projection 2.deps.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\bin\Debug\netcoreapp3.1\LINQ Operators - Projection 2.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\bin\Debug\netcoreapp3.1\LINQ Operators - Projection 2.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\bin\Debug\netcoreapp3.1\LINQ Operators - Projection 2.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\bin\Debug\netcoreapp3.1\LINQ Operators - Projection 2.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\obj\Debug\netcoreapp3.1\LINQ Operators - Projection 2.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\obj\Debug\netcoreapp3.1\LINQ Operators - Projection 2.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\obj\Debug\netcoreapp3.1\LINQ Operators - Projection 2.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\obj\Debug\netcoreapp3.1\LINQ Operators - Projection 2.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\obj\Debug\netcoreapp3.1\LINQ Operators - Projection 2.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\obj\Debug\netcoreapp3.1\LINQ Operators - Projection 2.genruntimeconfig.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Operators - Projection 2\obj\Debug\netcoreapp3.1\LINQ Operators - Projection 2.csprojAssemblyReference.cache
