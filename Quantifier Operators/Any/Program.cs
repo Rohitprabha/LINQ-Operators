@@ -11,8 +11,7 @@ namespace LINQ_Operators___Quantifier_2
             //Using Method Syntax
             var ResultMS = IntArray.Any();
             //Using Query Syntax
-            var ResultQS = (from num in IntArray
-                            select num).Any();
+            var ResultQS = (from num in IntArray select num).Any();
             Console.WriteLine("Is there any element in the collection : " + ResultMS);
             Console.ReadKey();
         }
