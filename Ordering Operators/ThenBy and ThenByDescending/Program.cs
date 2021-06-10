@@ -23,7 +23,6 @@ namespace LINQ_Operators___Ordering_3
                               .OrderBy(x => x.FirstName)
                               .ThenByDescending(y => y.LastName)
                               .ToList();
-
             foreach (var student in MS2)
             {
                 Console.WriteLine("First Name :" + student.FirstName + ", Last Name : " + student.LastName);
